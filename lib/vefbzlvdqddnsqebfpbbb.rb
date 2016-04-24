@@ -1,5 +1,5 @@
 require "vefbzlvdqddnsqebfpbbb/version"
 
 module Vefbzlvdqddnsqebfpbbb
-  # Your code goes here...
+  puts "Hello world!"
 end
